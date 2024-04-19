@@ -1,4 +1,4 @@
-Heart Disease Prediction Project
+#Heart Disease Prediction Project
 Overview
 This project aims to develop a predictive model for detecting heart disease in individuals based on clinical and demographic attributes. Leveraging machine learning techniques, we aim to create a reliable tool for early detection and risk assessment of heart disease, enabling timely intervention and personalized healthcare.
 
