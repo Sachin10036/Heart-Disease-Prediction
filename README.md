@@ -8,7 +8,7 @@ NumPy
 Pandas
 scikit-learn
 Dataset
-The project utilizes the Cleveland Heart Disease dataset, comprising various clinical attributes such as age, sex, blood pressure, cholesterol levels, and electrocardiographic measurements. The dataset contains 303 instances, each representing a patient, with 14 attributes including the target variable indicating the presence or absence of heart disease.
+The project utilizes the Cleveland Heart Disease dataset, comprising various clinical attributes such as age, sex, blood pressure, cholesterol levels, and electrocardiographic measurements. The dataset contains 1025 instances, each representing a patient, with 14 attributes including the target variable indicating the presence or absence of heart disease.
 
 Methodology
 Data Preprocessing and Collection:
